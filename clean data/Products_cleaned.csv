@@ -1,0 +1,601 @@
+product_sku,product_name,category,subcategory,brand,mrp,cost_price,unit,weight_g,pack_size,active_flag
+SKU100000,GlowPlus Staples Natural,Grocery ,Staples ,GlowPlus,715.02,599.74,kg,3448.0,10,Y
+SKU100001,DailyDelight Packaged Foods Regular,grocery,Packaged Foods,DailyDelight,265.03,210.73,pcs,63.0,2,Y
+SKU100002,HomeEase Skin Care Natural,personal care,Skin Care ,HomeEase,₹164,,l,,6,Y
+SKU100003,PurePlus Home Care Regular,Household ,home care,PurePlus,220.19,195.65,pcs,1718.0,1,Y
+SKU100004,DailyDelight Packaged Foods Regular,grocery,packaged foods,DailyDelight,1122.41,805.57,l,,10,Y
+SKU100005,CleanHome Hair Care Plus,Personal Care ,Hair Care ,CleanHome,971.73,652,pcs,,6,Y
+SKU100006,TechNova Small Appliances Premium,electronics,Small Appliances ,TechNova,39,33.73,l,,1,Y
+SKU100007,DailyDelight Small Appliances Regular,electronics,Small Appliances,DailyDelight,613.02,,kg,3472.0,10,Y
+SKU100008,FreshFarm Oral Care Regular,Personal Care,Oral Care ,FreshFarm,486.53,376,pcs,1040.0,2,Y
+SKU100009,DmartBasic Skin Care Classic,Personal Care ,Skin Care,DmartBasic,858.2,748.38,pcs,,2,N
+SKU100010,TasteMax Home Care Plus,Household,Home Care,TasteMax,326,216.62,l,1861.0,2,Y
+SKU100011,TechNova Cleaning Classic,Household ,cleaning,TechNova,518.89,464.27,g,64.0,1,Y
+SKU100012,FreshFarm Home Care Premium,Household ,Home Care,FreshFarm,1143.07,822.05,l,,6,Y
+SKU100013,GreenFields Staples Plus,Grocery,staples,GreenFields,201.32,144.54,kg,1394.0,2,Y
+SKU100014,DmartBasic Fresh Fruits Plus,Fruits & Veg,Fresh Fruits,DmartBasic,55.83,41.14,kg,4851.0,2,Y
+SKU100015,GreenFields Accessories Premium,Electronics ,Accessories ,GreenFields,366.71,305.73,l,,10,Y
+SKU100016,DmartBasic Beverages Premium,Grocery ,Beverages,DmartBasic,95.49,84,g,161.0,10,Y
+SKU100017,HomeEase Fresh Fruits Regular,Fruits & Veg,Fresh Fruits,HomeEase,154.95,136.28,pcs,448.0,4,Y
+SKU100018,PurePlus Accessories Regular,electronics,Accessories ,PurePlus,280.49,214.74,g,1870.0,1,Y
+SKU100019,DailyDelight Fresh Fruits Premium,Fruits & Veg ,fresh fruits,DailyDelight,₹436,359.84,g,566.0,1,Y
+SKU100020,GlowPlus Fresh Vegetables Classic,fruits & veg,Fresh Vegetables ,GlowPlus,810.9,546.28,kg,3245.0,4,Y
+SKU100021,PurePlus Accessories Natural,Electronics,accessories,PurePlus,488.47,430.43,g,1114.0,4,N
+SKU100022,CleanHome Home Care Premium,household,Home Care ,CleanHome,645.19,473.10,l,1511.0,2,Y
+SKU100023,FreshFarm Utensils Plus,Household ,Utensils,FreshFarm,₹515,362.38,kg,4321.0,2,Y
+SKU100024,GlowPlus Small Appliances Natural,Electronics ,small appliances,GlowPlus,696.65,476.45,pcs,,10,Y
+SKU100025,HomeEase Staples Plus,grocery,Staples,HomeEase,404.83,320.37,pcs,,10,Y
+SKU100026,TechNova Fresh Fruits Natural,fruits & veg,Fresh Fruits ,TechNova,259.9,205.89,pcs,1344.0,1,Y
+SKU100027,GreenFields Cleaning Natural,Household ,Cleaning ,GreenFields,140.01,102.73,g,1250.0,4,Y
+SKU100028,TasteMax Skin Care Regular,Personal Care ,skin care,TasteMax,46.68,₹36,l,1922.0,2,Y
+SKU100029,FreshFarm Cleaning Natural,Household ,Cleaning ,FreshFarm,"1,033",923.85,l,1549.0,6,Y
+SKU100030,GreenFields Staples Plus,Grocery ,Staples ,GreenFields,468.14,395.71,l,,2,Y
+SKU100031,HomeEase Skin Care Plus,Personal Care ,skin care,HomeEase,115.73,₹80,l,1118.0,2,Y
+SKU100032,TasteMax Utensils Premium,Household,Utensils,TasteMax,114.15,100.52,pcs,,10,Y
+SKU100033,TechNova Small Appliances Classic,electronics,small appliances,TechNova,815.94,623.66,g,1674.0,6,N
+SKU100034,DailyDelight Small Appliances Plus,Electronics,small appliances,DailyDelight,1097.4,782,g,1002.0,4,Y
+SKU100035,DailyDelight Home Care Plus,household,home care,DailyDelight,796.93,711.86,kg,603.0,6,Y
+SKU100036,GlowPlus Skin Care Regular,Personal Care,Skin Care,GlowPlus,272.73,194.18,pcs,967.0,10,Y
+SKU100037,HomeEase Cleaning Regular,Household,Cleaning,HomeEase,153.52,₹132,kg,2907.0,2,Y
+SKU100038,HomeEase Hair Care Natural,Personal Care ,Hair Care,HomeEase,36.19,₹32,l,,2,Y
+SKU100039,TechNova Fresh Fruits Plus,fruits & veg,Fresh Fruits ,TechNova,211.95,162,kg,2629.0,4,Y
+SKU100040,FreshFarm Utensils Plus,Household,Utensils,FreshFarm,980.07,702.27,pcs,1843.0,6,Y
+SKU100041,CleanHome Skin Care Premium,personal care,Skin Care ,CleanHome,1197.0,852.72,l,,6,Y
+SKU100042,DmartBasic Oral Care Premium,Personal Care,oral care,DmartBasic,627,483.86,g,1454.0,6,Y
+SKU100043,HomeEase Utensils Regular,Household,Utensils ,HomeEase,120.57,97.39,pcs,,10,Y
+SKU100044,PurePlus Utensils Natural,Household,Utensils,PurePlus,323.99,231.42,g,424.0,6,Y
+SKU100045,TechNova Hair Care Regular,personal care,Hair Care,TechNova,1307.4,,g,585.0,1,Y
+SKU100046,TasteMax Beverages Classic,Grocery,Beverages ,TasteMax,373.55,291.49,kg,1412.0,6,Y
+SKU100047,CleanHome Hair Care Plus,Personal Care ,Hair Care ,CleanHome,154.1,134.13,g,1563.0,6,Y
+SKU100048,CleanHome Staples Classic,Grocery,Staples,CleanHome,197.75,147,kg,954.0,2,Y
+SKU100049,GlowPlus Oral Care Plus,personal care,Oral Care,GlowPlus,623.5,451.57,g,1852.0,10,Y
+SKU100050,FreshFarm Staples Plus,Grocery,Staples ,FreshFarm,255.86,179.57,pcs,,6,Y
+SKU100051,TechNova Snacks Classic,Grocery,Snacks,TechNova,29.52,,g,1926.0,10,N
+SKU100052,GlowPlus Small Appliances Regular,electronics,Small Appliances ,GlowPlus,1027.26,877.92,l,967.0,6,Y
+SKU100053,PurePlus Snacks Plus,grocery,Snacks ,PurePlus,492.57,404.58,l,1659.0,1,Y
+SKU100054,CleanHome Accessories Classic,Electronics ,Accessories,CleanHome,450.21,375.13,pcs,,6,Y
+SKU100055,PurePlus Fresh Vegetables Plus,fruits & veg,fresh vegetables,PurePlus,1096.21,925,kg,2415.0,1,Y
+SKU100056,DailyDelight Utensils Regular,household,Utensils ,DailyDelight,139.5,120.51,g,1735.0,4,Y
+SKU100057,FreshFarm Fresh Vegetables Plus,fruits & veg,Fresh Vegetables,FreshFarm,₹131,103.97,pcs,,10,Y
+SKU100058,TechNova Accessories Classic,electronics,Accessories,TechNova,440.27,314.28,l,,2,Y
+SKU100059,DmartBasic Fresh Vegetables Natural,fruits & veg,fresh vegetables,DmartBasic,₹512,₹368,g,196.0,4,Y
+SKU100060,HomeEase Accessories Classic,Electronics,accessories,HomeEase,₹527,465.59,pcs,1506.0,6,Y
+SKU100061,GreenFields Skin Care Plus,personal care,Skin Care ,GreenFields,71.73,61.95,g,381.0,1,N
+SKU100062,GlowPlus Skin Care Plus,personal care,skin care,GlowPlus,243.04,178,l,1371.0,2,Y
+SKU100063,TasteMax Utensils Plus,Household,Utensils ,TasteMax,644.96,₹563,pcs,,4,Y
+SKU100064,CleanHome Small Appliances Classic,Electronics ,Small Appliances,CleanHome,591.43,442.53,g,1261.0,2,Y
+SKU100065,TechNova Beverages Natural,grocery,Beverages ,TechNova,270.79,193,g,1584.0,4,Y
+SKU100066,TasteMax Hair Care Regular,Personal Care,hair care,TasteMax,859.35,566.55,g,1727.0,6,Y
+SKU100067,GlowPlus Oral Care Classic,Personal Care ,oral care,GlowPlus,273.84,206,pcs,,2,Y
+SKU100068,GreenFields Oral Care Classic,personal care,oral care,GreenFields,322.08,,kg,1661.0,6,Y
+SKU100069,DailyDelight Oral Care Natural,personal care,oral care,DailyDelight,1764.99,1403.55,g,1777.0,1,Y
+SKU100070,PurePlus Utensils Classic,Household ,Utensils ,PurePlus,193.84,126.92,pcs,,4,Y
+SKU100071,TechNova Staples Natural,Grocery ,Staples,TechNova,534.48,448.49,g,184.0,10,Y
+SKU100072,FreshFarm Hair Care Classic,personal care,Hair Care,FreshFarm,973,744.64,kg,3373.0,1,Y
+SKU100073,GreenFields Home Care Natural,Household ,Home Care ,GreenFields,889.95,683.91,l,,4,Y
+SKU100074,DmartBasic Skin Care Plus,personal care,Skin Care ,DmartBasic,1296.9,1147.49,l,,1,Y
+SKU100075,GreenFields Fresh Vegetables Classic,fruits & veg,Fresh Vegetables,GreenFields,₹608,396.03,l,,6,Y
+SKU100076,TasteMax Small Appliances Premium,Electronics,Small Appliances,TasteMax,283.4,226.81,pcs,,4,Y
+SKU100077,TechNova Accessories Regular,Electronics,Accessories,TechNova,69.94,48.75,pcs,851.0,6,Y
+SKU100078,PurePlus Accessories Plus,Electronics,Accessories ,PurePlus,₹730,593,kg,3861.0,10,Y
+SKU100079,FreshFarm Hair Care Natural,Personal Care,Hair Care ,FreshFarm,343.37,₹285,pcs,,2,Y
+SKU100080,GreenFields Fresh Fruits Natural,Fruits & Veg ,Fresh Fruits,GreenFields,338.02,268.74,pcs,,4,N
+SKU100081,TasteMax Beverages Classic,Grocery ,Beverages ,TasteMax,1161.89,853,l,,2,Y
+SKU100082,CleanHome Hair Care Regular,personal care,Hair Care,CleanHome,236.97,189.86,kg,1181.0,2,Y
+SKU100083,DailyDelight Utensils Classic,household,Utensils ,DailyDelight,157.44,114.0,pcs,,1,Y
+SKU100084,GlowPlus Small Appliances Regular,Electronics ,small appliances,GlowPlus,959.48,,pcs,,10,Y
+SKU100085,GreenFields Fresh Fruits Natural,fruits & veg,fresh fruits,GreenFields,501.0,341.87,g,699.0,2,Y
+SKU100086,PurePlus Cleaning Plus,Household ,Cleaning ,PurePlus,626.46,540.88,g,1532.0,1,Y
+SKU100087,TechNova Fresh Vegetables Regular,Fruits & Veg,fresh vegetables,TechNova,526.72,454.17,l,1603.0,10,Y
+SKU100088,PurePlus Hair Care Natural,Personal Care,Hair Care,PurePlus,480.95,358.91,l,,1,Y
+SKU100089,TechNova Accessories Natural,electronics,accessories,TechNova,797.81,522.09,g,126.0,6,Y
+SKU100090,HomeEase Small Appliances Plus,electronics,Small Appliances,HomeEase,769,₹682,pcs,,1,Y
+SKU100091,TechNova Fresh Fruits Natural,Fruits & Veg ,Fresh Fruits ,TechNova,₹586,₹482,l,,1,Y
+SKU100092,GreenFields Fresh Fruits Plus,fruits & veg,Fresh Fruits,GreenFields,123.51,,pcs,,2,Y
+SKU100093,TechNova Fresh Fruits Premium,Fruits & Veg ,Fresh Fruits,TechNova,561.57,382.37,l,,2,N
+SKU100094,TasteMax Small Appliances Plus,Electronics,Small Appliances,TasteMax,438,368.85,l,428.0,10,Y
+SKU100095,GlowPlus Fresh Fruits Classic,fruits & veg,Fresh Fruits,GlowPlus,142.74,126.60,pcs,,1,Y
+SKU100096,TechNova Utensils Classic,Household ,utensils,TechNova,1615.94,"₹1,078",l,,2,Y
+SKU100097,DmratBasic Cleaning Natural,Household,Cleaning ,DmartBasic,583.42,483.24,g,1530.0,6,Y
+SKU100098,PurePlus Fresh Vegetables Plus,Fruits & Veg ,Fresh Vegetables ,PurePlus,307,217.36,kg,429.0,6,N
+SKU100099,FreshFarm Fresh Fruits Classic,Fruits & Veg ,Fresh Fruits ,FreshFarm,919.61,,pcs,,6,Y
+SKU100100,GreenFields Fresh Fruits Classic,Fruits & Veg ,Fresh Fruits ,GreenFields,"1,011",,l,545.0,1,Y
+SKU100101,DmartBasic Hair Care Premium,personal care,Hair Care,DmartBasic,622.04,505,g,1669.0,6,Y
+SKU100102,DmartBasic Packaged Foods Premium,grocery,packaged foods,DmartBasic,172.26,141.44,l,1109.0,4,Y
+SKU100103,GreenFields Small Appliances Classic,Electronics ,small appliances,GreenFields,170.34,₹138,l,,10,Y
+SKU100104,PurePlus Hair Care Plus,Personal Care,Hair Care,PurePlus,335.93,274.80,l,881.0,6,Y
+SKU100105,DailyDelight Small Appliances Classic,Electronics ,Small Appliances,DailyDelight,587.74,411.26,kg,885.0,10,Y
+SKU100106,TasteMax Fresh Fruits Plus,Fruits & Veg,fresh fruits,TasteMax,362.11,240.00,kg,2955.0,10,Y
+SKU100107,DailyDelight Fresh Vegetables Plus,Fruits & Veg,Fresh Vegetables ,DailyDelight,1267.53,1103.46,l,,10,Y
+SKU100108,TechNova Accessories Natural,electronics,Accessories,TechNova,₹685,502.58,pcs,1710.0,2,Y
+SKU100109,HomeEase Oral Care Regular,personal care,Oral Care ,HomeEase,210,170.18,g,1243.0,1,Y
+SKU100110,TechNova Packaged Foods Premium,Grocery,Packaged Foods,TechNova,449.99,332.73,pcs,,10,N
+SKU100111,GlowPlus Fresh Fruits Classic,fruits & veg,Fresh Fruits ,GlowPlus,756,649.5,g,725.0,10,Y
+SKU100112,DailyDelight Fresh Fruits Regular,Fruits & Veg,Fresh Fruits ,DailyDelight,167.28,123.75,g,384.0,10,N
+SKU100113,CleanHome Fresh Vegetables Regular,Fruits & Veg,Fresh Vegetables ,CleanHome,920,651.8,kg,2591.0,10,Y
+SKU100114,TasteMax Packaged Foods Plus,grocery,Packaged Foods,TasteMax,751.64,598.38,pcs,660.0,4,Y
+SKU100115,GlowPlus Accessories Plus,Electronics ,Accessories ,GlowPlus,334.93,263.79,kg,1593.0,6,N
+SKU100116,FreshFarm Hair Care Natural,Personal Care,Hair Care,FreshFarm,277.14,214.9,l,1020.0,1,Y
+SKU100117,HomeEase Skin Care Plus,personal care,skin care,HomeEase,629.01,427.36,l,,1,Y
+SKU100118,DmartBasic Snacks Natural,Grocery,snacks,DmartBasic,554,420.18,pcs,,10,Y
+SKU100119,DailyDelight Skin Care Classic,personal care,Skin Care ,DailyDelight,535.57,356.29,g,1225.0,6,Y
+SKU100120,HomeEase Accessories Natural,Electronics,accessories,HomeEase,281,190.28,pcs,,10,Y
+SKU100121,PurePlus Oral Care Natural,Personal Care ,Oral Care ,PurePlus,518.74,339.79,kg,3065.0,4,N
+SKU100122,FreshFarm Fresh Vegetables Plus,Fruits & Veg ,Fresh Vegetables ,FreshFarm,432,₹300,kg,1116.0,6,Y
+SKU100123,DailyDelight Packaged Foods Plus,Grocery ,Packaged Foods ,DailyDelight,472.4,400.67,l,,4,Y
+SKU100124,TasteMax Oral Care Premium,Personal Care ,Oral Care ,TasteMax,983.39,837.78,pcs,,4,Y
+SKU100125,PurePlus Skin Care Classic,personal care,Skin Care ,PurePlus,942.03,712.77,l,1911.0,2,Y
+SKU100126,CleanHome Accessories Premium,electronics,accessories,CleanHome,759,526.50,pcs,,10,N
+SKU100127,FreshFarm Accessories Premium,Electronics,Accessories,FreshFarm,769.76,691.79,g,843.0,6,Y
+SKU100128,DailyDelight Fresh Fruits Premium,Fruits & Veg,Fresh Fruits ,DailyDelight,743.4,₹531,kg,4584.0,2,Y
+SKU100129,DmartBasic Hair Care Plus,personal care,Hair Care,DmartBasic,2948.59,2433.77,pcs,,10,Y
+SKU100130,FreshFarm Beverages Natural,grocery,beverages,FreshFarm,1083.53,777,g,77.0,4,Y
+SKU100131,PurePlus Fresh Vegetables Regular,fruits & veg,fresh vegetables,PurePlus,716.09,572.72,g,981.0,2,Y
+SKU100132,GlowPlus Fresh Fruits Premium,fruits & veg,Fresh Fruits ,GlowPlus,204.93,₹150,kg,3405.0,6,Y
+SKU100133,TechNova Beverages Regular,Grocery ,Beverages ,TechNova,161.62,120.62,g,982.0,6,N
+SKU100134,HomeEase Cleaning Natural,Household ,Cleaning,HomeEase,"₹1,682",1147.15,l,,4,Y
+SKU100135,DailyDelight Utensils Classic,Household,Utensils ,DailyDelight,925.89,731.03,l,,10,Y
+SKU100136,DmartBasic Small Appliances Regular,Electronics,small appliances,DmartBasic,37.68,30.18,g,1178.0,1,Y
+SKU100137,GreenFields Beverages Plus,Grocery ,beverages,GreenFields,"1,046",894.86,l,,6,Y
+SKU100138,DailyDelight Packaged Foods Plus,Grocery,Packaged Foods,DailyDelight,169.81,136.14,g,1678.0,1,Y
+SKU100139,FreshFarm Small Appliances Classic,electronics,Small Appliances ,FreshFarm,663.71,551.6,kg,355.0,6,N
+SKU100140,DmartBasic Packaged Foods Natural,Grocery ,Packaged Foods ,DmartBasic,378.66,302,g,1521.0,1,Y
+SKU100141,GlowPlus Hair Care Natural,personal care,Hair Care,GlowPlus,₹128,87,g,856.0,4,Y
+SKU100142,GreenFields Oral Care Premium,Personal Care ,Oral Care,GreenFields,1101.73,775.12,l,,4,Y
+SKU100143,DailyDelight Accessories Regular,Electronics ,Accessories,DailyDelight,₹425,339.18,g,807.0,4,Y
+SKU100144,GreenFields Beverages Premium,Grocery,Beverages ,GreenFields,176.47,129.10,kg,1103.0,10,Y
+SKU100145,CleanHome Snacks Plus,Grocery ,snacks,CleanHome,315.37,228.99,l,1127.0,4,Y
+SKU100146,TasteMax Accessories Natural,Electronics ,Accessories ,TasteMax,644.77,457.52,g,773.0,6,Y
+SKU100147,FreshFarm Small Appliances Plus,electronics,Small Appliances,FreshFarm,792,674.67,g,1024.0,4,Y
+SKU100148,DailyDelight Home Care Classic,Household ,home care,DailyDelight,42.20,32.83,kg,2715.0,1,Y
+SKU100149,HomeEase Hair Caer Plus,Personal Care ,Hair Care ,HomeEase,132,98.18,l,81.0,10,Y
+SKU100150,PurePlus Accessories Regular,electronics,accessories,PurePlus,592.53,397.28,g,424.0,10,Y
+SKU100151,CleanHome Fresh Fruits Plus,Fruits & Veg,Fresh Fruits ,CleanHome,1007.42,831.13,kg,3338.0,1,Y
+SKU100152,TasteMax Cleaning Classic,household,Cleaning,TasteMax,"1,648",1135.59,pcs,,1,Y
+SKU100153,DailyDelight Beverages Premium,Grocery,beverages,DailyDelight,913.19,,pcs,,2,N
+SKU100154,CleanHome Home Care Natural,Household,Home Care,CleanHome,954.48,723.81,pcs,,2,Y
+SKU100155,HomeEase Oral Care Plus,Personal Care,Oral Care ,HomeEase,136.49,90.26,pcs,,4,Y
+SKU100156,PurePlus Fresh Vegetables Premium,fruits & veg,Fresh Vegetables,PurePlus,621.47,439.35,g,1441.0,1,Y
+SKU100157,GlowPlus Staples Plus,Grocery,staples,GlowPlus,719.12,567.25,kg,836.0,2,Y
+SKU100158,HomeEase Fresh Fruits Classic,Fruits & Veg ,Fresh Fruits,HomeEase,1568.55,1177.18,l,,6,Y
+SKU100159,FreshFarm Accessories Plus,electronics,Accessories ,FreshFarm,351.39,₹292,g,173.0,6,Y
+SKU100160,TasteMax Fresh Fruits Regular,Fruits & Veg ,Fresh Fruits,TasteMax,1450.95,"1,267",l,,10,Y
+SKU100161,HomeEase Skin Care Regular,personal care,skin care,HomeEase,₹519,344.33,pcs,,6,Y
+SKU100162,HomeEase Hair Care Plus,Personal Care,hair care,HomeEase,1264.46,"₹1,074",g,1379.0,10,Y
+SKU100163,GlowPlus Accessories Natural,Electronics ,Accessories,GlowPlus,700.38,587,l,194.0,10,Y
+SKU100164,DailyDelight Oral Care Natural,personal care,oral care,DailyDelight,282,211.99,kg,3891.0,4,Y
+SKU100165,PurePlus Staples Natural,grocery,staples,PurePlus,670.95,560,g,919.0,6,Y
+SKU100166,FreshFarm Staples Classic,Grocery ,Staples,FreshFarm,449.15,365.12,g,1066.0,4,Y
+SKU100167,PurePlus Beverages Regular,Grocery,Beverages,PurePlus,101.24,73.98,g,1056.0,10,Y
+SKU100168,DmartBasic Small Appliances Premium,Electronics,Small Appliances ,DmartBasic,"₹1,335",955.66,l,,6,Y
+SKU100169,TechNova Utensils Plus,household,Utensils ,TechNova,503.84,428.63,l,,4,N
+SKU100170,GlowPlus Home Care Classic,Household,Home Care ,GlowPlus,287,192.91,g,661.0,2,Y
+SKU100171,FreshFarm Small Appliances Premium,electronics,Small Appliances,FreshFarm,822,₹639,g,1132.0,6,Y
+SKU100172,DailyDelight Utensils Premium,household,Utensils,DailyDelight,444.18,343.64,l,,6,Y
+SKU100173,FreshFarm Fresh Vegetables Classic,Fruits & Veg,Fresh Vegetables ,FreshFarm,97.09,68,l,,1,N
+SKU100174,GreenFields Accessories Regular,Electronics,Accessories,GreenFields,71,₹62,g,631.0,1,Y
+SKU100175,HomeEase Fresh Vegetables Natural,fruits & veg,Fresh Vegetables ,HomeEase,947.38,702.77,g,1580.0,2,Y
+SKU100176,HomeEase Skin Care Regular,Personal Care ,skin care,HomeEase,993.89,828.07,kg,851.0,6,Y
+SKU100177,GreenFields Home Care Plus,household,home care,GreenFields,598.01,465.03,pcs,782.0,1,Y
+SKU100178,PurePlus Fresh Fruits Plus,fruits & veg,fresh fruits,PurePlus,256.04,183.65,pcs,1602.0,6,Y
+SKU100179,HomeEase Fresh Fruits Classic,fruits & veg,Fresh Fruits,HomeEase,70.78,48.62,kg,421.0,6,Y
+SKU100180,GlowPlus Home Care Classic,household,Home Care ,GlowPlus,315.98,271.82,pcs,,4,Y
+SKU100181,PurePlus Utensils Natural,Household ,utensils,PurePlus,459.92,,l,,10,Y
+SKU100182,FreshFarm Snacks Regular,Grocery,Snacks ,FreshFarm,780.69,609.39,kg,3708.0,1,Y
+SKU100183,DailyDelight Cleaning Plus,Household,Cleaning,DailyDelight,209.95,159.39,g,908.0,2,Y
+SKU100184,TechNova Snacks Natural,Grocery ,snacks,TechNova,748.53,493.42,g,533.0,1,Y
+SKU100185,HomeEase Home Care Plus,Household ,Home Care,HomeEase,985.45,761.38,pcs,1578.0,2,Y
+SKU100186,FreshFarm Skin Care Classic,Personal Care,Skin Care,FreshFarm,1101.77,885.04,l,,2,Y
+SKU100187,DailyDelight Small Appliances Natural,Electronics,Small Appliances,DailyDelight,407.56,288.64,l,,10,Y
+SKU100188,GreenFields Fresh Vegetables Classic,Fruits & Veg ,Fresh Vegetables ,GreenFields,638.52,481.06,kg,1689.0,6,Y
+SKU100189,DmartBasic Cleaning Natural,household,Cleaning ,DmartBasic,268.06,193.81,g,1018.0,4,Y
+SKU100190,TechNova Staples Plus,Grocery ,Staples,TechNova,211.7,147.81,kg,1462.0,10,Y
+SKU100191,GlowPlus Hair Care Classic,personal care,hair care,GlowPlus,1576.66,1114.17,kg,1296.0,10,Y
+SKU100192,DmartBasic Cleaning Regular,Household ,Cleaning ,DmartBasic,1193.96,909.54,l,,2,Y
+SKU100193,CleanHome Packaged Foods Regular,Grocery,packaged foods,CleanHome,935.71,653.98,l,,6,Y
+SKU100194,HomeEase Fresh Vegetables rPemium,Fruits & Veg ,Fresh Vegetables ,HomeEase,283.91,238.3,l,1563.0,10,Y
+SKU100195,DmartBasic Beverages Plus,Grocery,Beverages,DmartBasic,283.63,₹201,pcs,,10,Y
+SKU100196,GreenFields Home Care Plus,Household,Home Care,GreenFields,915.07,663.23,kg,2988.0,10,Y
+SKU100197,TechNova Skin Care Classic,Personal Care,Skin Care,TechNova,216.64,144.82,pcs,,4,Y
+SKU100198,TechNova Small Appliances Classic,Electronics,small appliances,TechNova,632.85,505,g,931.0,6,Y
+SKU100199,CleanHome Cleaning Classic,Household,cleaning,CleanHome,56,37.38,kg,3450.0,4,Y
+SKU100200,PurePlus Packaged Foods Classic,Grocery,Packaged Foods,PurePlus,424.96,381.19,g,305.0,6,Y
+SKU100201,PurePlus Accessories Premium,electronics,Accessories ,PurePlus,33.32,22,pcs,,6,Y
+SKU100202,TechNova Accessories Natural,electronics,Accessories ,TechNova,37.52,31.75,pcs,,2,Y
+SKU100203,PurePlus Accessories Natural,Electronics ,accessories,PurePlus,₹576,478.7,g,1303.0,10,Y
+SKU100204,DailyDelight Oral Care Regular,Personal Care,Oral Care,DailyDelight,699,₹573,kg,1731.0,2,Y
+SKU100205,CleanHome Home Care Plus,Household ,home care,CleanHome,₹699,582.82,kg,3867.0,2,N
+SKU100206,DmartBasic Oral Care Natural,Personal Care,Oral Care ,DmartBasic,180.87,130.97,g,1148.0,2,Y
+SKU100207,DailyDelight Cleaning Regular,Household,Cleaning ,DailyDelight,212.47,165.83,g,1623.0,4,Y
+SKU100208,TechNova Hair Care Premium,personal care,Hair Care,TechNova,768.74,556,kg,1815.0,4,Y
+SKU100209,CleanHome Fresh Vegetables Premium,Fruits & Veg ,Fresh Vegetables,CleanHome,₹241,177.29,l,,4,Y
+SKU100210,TechNova Home Care Premium,household,Home Care,TechNova,280.38,187.78,g,1297.0,1,Y
+SKU100211,TasteMax Beverages Classic,grocery,beverages,TasteMax,₹138,124,kg,1882.0,1,Y
+SKU100212,PurePlus Fresh Vegetables Regular,fruits & veg,Fresh Vegetables,PurePlus,597.74,414.11,g,367.0,1,Y
+SKU100213,PurePlus Accessories Classic,Electronics,Accessories,PurePlus,241,183.94,kg,1822.0,10,Y
+SKU100214,CleanHome Hair Care Plus,personal care,Hair Care,CleanHome,254.12,202.71,pcs,630.0,1,Y
+SKU100215,HomeEase Oral Care Plus,personal care,Oral Care ,HomeEase,678.45,529.14,g,383.0,4,Y
+SKU100216,DailyDelight Hair Care Regular,Personal Care,Hair Care ,DailyDelight,413.84,332,l,,6,Y
+SKU100217,TechNova Staples Plus,Grocery,staples,TechNova,₹358,250.55,g,1130.0,6,Y
+SKU100218,GreenFields Hair Care Premium,Personal Care ,hair care,GreenFields,376.32,253.75,g,285.0,6,Y
+SKU100219,FreshFarm Home Care Natural,Household,Home Care ,FreshFarm,707.44,489.18,kg,618.0,10,Y
+SKU100220,PurePlus Fresh Vegetables Regular,Fruits & Veg ,fresh vegetables,PurePlus,"₹1,767",1408.01,kg,4640.0,10,Y
+SKU100221,DmartBasic Fresh Vegetables Classic,fruits & veg,fresh vegetables,DmartBasic,₹223,191.67,l,,4,Y
+SKU100222,PurePlus Skin Care Plus,personal care,Skin Care ,PurePlus,1603.51,1053.31,pcs,914.0,4,Y
+SKU100223,DmartBasic Small Appliances Classic,Electronics,small appliances,DmartBasic,197.60,152.39,pcs,837.0,10,N
+SKU100224,CleanHome Beverages Regular,Grocery ,beverages,CleanHome,1092.06,908,l,292.0,1,Y
+SKU100225,GlowPlus Hair Care Natural,Personal Care,Hair Care ,GlowPlus,35.67,25.42,pcs,,1,Y
+SKU100226,GreenFields Utensils Natural,Household ,Utensils ,GreenFields,524.33,₹404,kg,2476.0,2,Y
+SKU100227,GreenFields Skin Care Plus,personal care,Skin Care ,GreenFields,1710.91,"₹1,175",g,960.0,10,N
+SKU100228,GlowPlus Fresh Vegetables Regular,Fruits & Veg,Fresh Vegetables ,GlowPlus,320.03,233.27,pcs,1299.0,4,Y
+SKU100229,FreshFarm Small Appliances Plus,electronics,Small Appliances ,FreshFarm,732.74,₹527,pcs,,6,Y
+SKU100230,DailyDelight Home Care Premium,Household ,Home Care,DailyDelight,632.16,₹468,pcs,,2,Y
+SKU100231,PurePlus Oral Care Regular,Personal Care,Oral Care ,PurePlus,1707.13,1441.56,pcs,,4,Y
+SKU100232,TasteMax Fresh Fruits Premium,Fruits & Veg ,fresh fruits,TasteMax,1284.66,870.54,l,,6,Y
+SKU100233,FreshFarm Utensils Plus,Household,Utensils,FreshFarm,39.58,27,g,661.0,1,Y
+SKU100234,GreenFields Fresh Vegetables Regular,Fruits & Veg,Fresh Vegetables ,GreenFields,₹931,744.31,l,,10,Y
+SKU100235,CleanHome Packaged Foods Regular,Grocery ,Packaged Foods ,CleanHome,1353.13,983.21,g,250.0,10,N
+SKU100236,GreenFields Fresh Vegetables Plus,Fruits & Veg,Fresh Vegetables ,GreenFields,263.08,178.37,pcs,1006.0,2,Y
+SKU100237,PurePlus Fresh Fruits Natural,Fruits & Veg ,Fresh Fruits,PurePlus,"1,042",842.88,kg,2001.0,4,Y
+SKU100238,GreenFields Small Appliances Plus,Electronics,Small Appliances ,GreenFields,380.59,330.77,g,451.0,1,Y
+SKU100239,GlowPlus Fresh Fruits Premium,Fruits & Veg ,fresh fruits,GlowPlus,432.94,377.31,g,1238.0,4,Y
+SKU100240,TasteMax Home Care Premium,Household ,Home Care,TasteMax,56.34,,kg,4553.0,10,Y
+SKU100241,CleanHome Oral Care Classic,Personal Care,Oral Care,CleanHome,644.28,506,pcs,,1,Y
+SKU100242,FreshFarm Staples Regular,grocery,staples,FreshFarm,380.63,279.44,pcs,1912.0,4,Y
+SKU100243,GreenFields Small Appliances Classic,Electronics,Small Appliances ,GreenFields,712.94,526,kg,836.0,1,Y
+SKU100244,HomeEase Small Appliances Plus,Electronics ,Small Appliances ,HomeEase,591.36,527.96,g,992.0,6,Y
+SKU100245,TechNova Fresh Fruits Regular,Fruits & Veg ,Fresh Fruits,TechNova,1228.94,₹946,kg,2278.0,2,Y
+SKU100246,DailyDelight Packaged Foods Premium,Grocery ,Packaged Foods ,DailyDelight,1342.6,923.42,g,196.0,6,Y
+SKU100247,CleanHome Small Appliances Regular,electronics,Small Appliances,CleanHome,469.95,413.69,l,,6,Y
+SKU100248,PurePlus Fresh Fruits Regular,Fruits & Veg ,Fresh Fruits ,PurePlus,"₹1,878",1318.72,pcs,1147.0,6,Y
+SKU100249,TasteMax Small Appliances Natural,Electronics,Small Appliances ,TasteMax,1413.43,1231.8,g,54.0,4,Y
+SKU100250,GlowPlus Accessories Classic,Electronics,accessories,GlowPlus,810.11,605,l,,2,Y
+SKU100251,TasteMax Accessories Natural,electronics,Accessories ,TasteMax,1093.49,982,l,992.0,10,Y
+SKU100252,HomeEase Small Appliances Plus,Electronics ,small appliances,HomeEase,980.24,₹657,pcs,,4,Y
+SKU100253,DailyDelight Fresh Vegetables Natural,Fruits & Veg ,Fresh Vegetables ,DailyDelight,₹809,600,pcs,1846.0,2,Y
+SKU100254,GreenFields Small Appliances Premium,Electronics,Small Appliances ,GreenFields,₹173,120.99,kg,2028.0,1,Y
+SKU100255,DailyDelight Hair Care Natural,Personal Care ,Hair Care ,DailyDelight,881.94,786,kg,3157.0,10,Y
+SKU100256,GreenFields Snacks Natural,Grocery ,Snacks ,GreenFields,"1,559",1240.99,pcs,155.0,4,Y
+SKU100257,DailyDelight Oral Care Premium,personal care,Oral Care ,DailyDelight,679.62,486.19,g,624.0,2,Y
+SKU100258,FreshFarm Hair Care Premium,Personal Care ,hair care,FreshFarm,781.22,589,pcs,,2,Y
+SKU100259,PurePlus Small Appliances Natural,electronics,Small Appliances,PurePlus,361.17,254.26,g,1916.0,10,Y
+SKU100260,TechNova Home Care Regular,Household ,home care,TechNova,"1,072",₹876,l,1656.0,1,Y
+SKU100261,GreenFields Accessories Natural,Electronics ,Accessories,GreenFields,261.07,218.22,kg,4574.0,4,Y
+SKU100262,DailyDelight Packaged Foods Classic,Grocery,Packaged Foods ,DailyDelight,₹513,393,g,1357.0,2,Y
+SKU100263,TasteMax Cleaning Classic,household,cleaning,TasteMax,289.26,,kg,460.0,4,Y
+SKU100264,GreenFields Small Appliances Natural,Electronics ,Small Appliances,GreenFields,322.29,,kg,2767.0,10,Y
+SKU100265,GlowPlus Oral Care Premium,Personal Care ,oral care,GlowPlus,842.92,630.81,l,,1,Y
+SKU100266,TechNova Utensils Natural,Household,utensils,TechNova,39.68,,g,290.0,1,N
+SKU100267,TechNova Home Care Regular,Household ,home care,TechNova,181.41,₹153,g,364.0,2,N
+SKU100268,GlowPlus Fresh Fruits Regular,fruits & veg,fresh fruits,GlowPlus,247.40,₹181,g,1465.0,6,Y
+SKU100269,HomeEase Small Appliances Plus,Electronics ,small appliances,HomeEase,349.15,₹256,g,1153.0,4,Y
+SKU100270,FreshFarm Skin Care Plus,Personal Care,Skin Care ,FreshFarm,1337.13,₹976,l,,4,Y
+SKU100271,PurePlus Utensils Natural,Household ,utensils,PurePlus,405.48,291.19,kg,4101.0,10,Y
+SKU100272,GreenFields Utensils Classic,Household ,Utensils ,GreenFields,172.97,₹146,pcs,,10,Y
+SKU100273,FreshFarm Home Care Classic,household,Home Care,FreshFarm,552.06,435.27,g,1485.0,6,Y
+SKU100274,DailyDelight Packaged Foods Classic,grocery,Packaged Foods ,DailyDelight,302.11,₹203,l,1769.0,1,Y
+SKU100275,GreenFields Fresh Fruits Natural,Fruits & Veg,Fresh Fruits ,GreenFields,221.21,₹162,kg,2680.0,6,Y
+SKU100276,FreshFarm Utensils Regular,household,Utensils ,FreshFarm,42,36.13,pcs,,2,Y
+SKU100277,TasteMax Snacks Natural,Grocery ,Snacks,TasteMax,73.43,57.29,l,,1,Y
+SKU100278,GlowPlus Packaged Foods Regular,grocery,Packaged Foods,GlowPlus,663.79,444,l,,10,Y
+SKU100279,HomeEase Utensils Premium,Household ,Utensils,HomeEase,1321.81,1142.47,g,1265.0,10,Y
+SKU100280,GreenFields Utensils Natural,Household,Utensils,GreenFields,714,,l,1231.0,2,Y
+SKU100281,HomeEase Accessories Natural,electronics,accessories,HomeEase,548,,l,,4,Y
+SKU100282,GreenFields Fresh Fruits Natural,Fruits & Veg ,Fresh Fruits ,GreenFields,265.73,230.26,g,1825.0,1,Y
+SKU100283,DailyDelight Staples Plus,grocery,Staples ,DailyDelight,287.19,257,pcs,,1,Y
+SKU100284,GreenFields Oral Care Plus,Personal Care ,oral care,GreenFields,156.93,111.62,l,,10,Y
+SKU100285,PurePlus Home Care Regular,household,Home Care ,PurePlus,574,409.94,g,246.0,10,Y
+SKU100286,FreshFarm Staples Classic,Grocery ,Staples ,FreshFarm,₹102,80.54,kg,508.0,2,Y
+SKU100287,HomeEase Oral Care Premium,Personal Care ,Oral Care ,HomeEase,450,399.29,g,1299.0,6,Y
+SKU100288,HomeEase Fresh Fruits Regular,fruits & veg,fresh fruits,HomeEase,1564.71,,g,1327.0,2,Y
+SKU100289,DailyDelight Fresh Fruits Regular,fruits & veg,Fresh Fruits ,DailyDelight,905.80,811,kg,2838.0,10,N
+SKU100290,FreshFarm Beverages Natural,Grocery ,beverages,FreshFarm,₹405,323.78,kg,2615.0,4,Y
+SKU100291,CleanHome Small Appliances Classic,Electronics ,Small Appliances,CleanHome,277.98,197.54,l,1798.0,1,Y
+SKU100292,TechNova Skin Care Regular,personal care,Skin Care,TechNova,339,,pcs,,1,Y
+SKU100293,FreshFarm Fresh Vegetables Premium,Fruits & Veg,Fresh Vegetables ,FreshFarm,212.14,140.7,g,1023.0,2,Y
+SKU100294,PurePlus Hair Care Plus,Personal Care ,hair care,PurePlus,887.22,₹771,l,1540.0,10,Y
+SKU100295,DailyDelight Accessories Natural,electronics,Accessories,DailyDelight,1829.63,"₹1,518",g,156.0,6,Y
+SKU100296,TechNova Fresh Vegetables Regular,Fruits & Veg ,fresh vegetables,TechNova,514.24,,g,790.0,1,Y
+SKU100297,TasteMax Utensils Regular,Household ,Utensils,TasteMax,616.99,407.44,g,1023.0,2,Y
+SKU100298,PurePlus Fresh Fruits Classic,Fruits & Veg ,Fresh Fruits ,PurePlus,108.09,₹77,l,432.0,2,Y
+SKU100299,GlowPlus Skin Care Premium,personal care,skin care,GlowPlus,31.15,26,kg,2112.0,2,Y
+SKU100300,DailyDelight Skin Care Natural,personal care,skin care,DailyDelight,363.32,276.35,pcs,,1,Y
+SKU100301,DailyDelight Oral Care Premium,Personal Care ,Oral Care ,DailyDelight,₹276,215.35,kg,2029.0,4,Y
+SKU100302,PurePlus Accessories Regular,electronics,accessories,PurePlus,₹223,192,pcs,1435.0,10,Y
+SKU100303,DmartBasic Cleaning Premium,Household,Cleaning,DmartBasic,322.13,279,pcs,1416.0,1,Y
+SKU100304,PurePlus Accessories Plus,Electronics ,accessories,PurePlus,65.8,54.90,l,,2,Y
+SKU100305,TasteMax Skin Care Premium,personal care,Skin Care ,TasteMax,874.97,₹574,pcs,,2,Y
+SKU100306,TechNova Fresh Vegetables Regular,Fruits & Veg,fresh vegetables,TechNova,417.88,325.77,kg,2321.0,4,Y
+SKU100307,DailyDelight Skin Care Natural,personal care,Skin Care ,DailyDelight,759.33,681.82,l,,6,Y
+SKU100308,CleanHome Small Appliances Premium,Electronics ,Small Appliances ,CleanHome,121,104.07,l,480.0,1,Y
+SKU100309,GreenFields Fresh Vegetables Plus,Fruits & Veg,Fresh Vegetables ,GreenFields,689.38,588.04,g,615.0,6,N
+SKU100310,PurePlus Packaged Foods Plus,grocery,packaged foods,PurePlus,643.13,533,l,504.0,2,Y
+SKU100311,PurePlus Beverages Natural,Grocery,Beverages,PurePlus,389.54,₹268,kg,1479.0,6,Y
+SKU100312,TasteMax Utensils Premium,Household ,Utensils ,TasteMax,659.70,552.97,g,949.0,1,Y
+SKU100313,GlowPlus Staples Premium,grocery,Staples ,GlowPlus,760.87,593.24,pcs,1734.0,2,Y
+SKU100314,CleanHome Snacks Premium,Grocery ,Snacks,CleanHome,115.25,,l,352.0,1,Y
+SKU100315,FreshFarm Beverages Regular,Grocery ,beverages,FreshFarm,326.15,236.35,g,1001.0,4,Y
+SKU100316,FreshFarm Oral Care Premium,personal care,Oral Care ,FreshFarm,900.4,,l,,10,Y
+SKU100317,HomeEase Small Appliances Regular,Electronics ,Small Appliances,HomeEase,79.3,53,kg,2749.0,6,Y
+SKU100318,HomeEase Beverages Premium,Grocery ,Beverages ,HomeEase,675.16,567.34,l,,6,Y
+SKU100319,FreshFarm Staples Natural,grocery,Staples ,FreshFarm,1223.94,,kg,2530.0,1,Y
+SKU100320,DmartBasic Fresh Vegetables Classic,fruits & veg,Fresh Vegetables ,DmartBasic,795.24,₹642,kg,263.0,2,Y
+SKU100321,DailyDelight Beverages Classic,Grocery,Beverages ,DailyDelight,250.07,222.52,pcs,,2,Y
+SKU100322,FreshFarm Home Care Plus,Household,Home Care ,FreshFarm,670.71,510.0,kg,3878.0,10,Y
+SKU100323,FreshFarm Small Appliances Plus,Electronics ,Small Appliances ,FreshFarm,81.46,62,pcs,1123.0,4,Y
+SKU100324,DailyDelight Utensils Classic,household,Utensils,DailyDelight,409.94,274.03,l,,6,Y
+SKU100325,CleanHome Hair Care Premium,Personal Care,Hair Care,CleanHome,274.56,,pcs,1047.0,10,N
+SKU100326,HomeEase Skin Care Premium,Personal Care ,Skin Care ,HomeEase,₹500,419.23,pcs,,6,N
+SKU100327,HomeEase Fresh Fruits Regular,Fruits & Veg,Fresh Fruits,HomeEase,71.98,,l,,1,Y
+SKU100328,GreenFields Fresh Fruits Natural,fruits & veg,Fresh Fruits ,GreenFields,630.45,₹558,pcs,,2,Y
+SKU100329,CleanHome Fresh Fruits Natural,fruits & veg,Fresh Fruits ,CleanHome,76.49,60.58,g,308.0,1,Y
+SKU100330,FreshFarm Accessories Premium,Electronics ,Accessories ,FreshFarm,865.44,674.84,l,432.0,10,Y
+SKU100331,GreenFields Staples Premium,Grocery,staples,GreenFields,₹151,120.44,pcs,,1,Y
+SKU100332,CleanHome Packaged Foods Natural,Grocery ,Packaged Foods,CleanHome,₹992,723.41,kg,739.0,1,Y
+SKU100333,TasteMax Skin Care Natural,Personal Care ,Skin Care ,TasteMax,324.91,290.57,g,447.0,10,Y
+SKU100334,GlowPlus Fresh Fruits Plus,Fruits & Veg,Fresh Fruits,GlowPlus,₹322,276.39,pcs,,1,Y
+SKU100335,GreenFields Oral Care Natural,Personal Care ,Oral Care,GreenFields,1612.25,"1,357",kg,4539.0,6,N
+SKU100336,DailyDelight Packaged Foods Regular,grocery,Packaged Foods,DailyDelight,998,822,g,86.0,4,Y
+SKU100337,CleanHome Fresh Vegetables Natural,fruits & veg,fresh vegetables,CleanHome,"1,165",1004.57,g,221.0,6,Y
+SKU100338,TasteMax Fresh Vegetables Regular,Fruits & Veg,Fresh Vegetables ,TasteMax,₹566,433.19,g,1183.0,2,Y
+SKU100339,TechNova Fresh Fruits Regular,fruits & veg,Fresh Fruits ,TechNova,1184.79,1046.22,kg,1084.0,2,Y
+SKU100340,CleanHome Hair Care Premium,Personal Care ,Hair Care ,CleanHome,851.59,743,pcs,1244.0,10,Y
+SKU100341,FreshFarm Small Appliances Plus,electronics,Small Appliances,FreshFarm,1974.33,1356.3,g,369.0,2,Y
+SKU100342,PurePlus Cleaning Premium,household,Cleaning ,PurePlus,46,₹40,l,1005.0,4,Y
+SKU100343,DailyDelight Fresh Fruits Natural,Fruits & Veg ,Fresh Fruits,DailyDelight,269,235.55,kg,4413.0,2,Y
+SKU100344,TasteMax Utensils Natural,Household ,utensils,TasteMax,₹425,340.99,pcs,,6,Y
+SKU100345,FreshFarm Staples Classic,grocery,Staples,FreshFarm,45.03,31.76,g,816.0,4,Y
+SKU100346,FreshFarm Skin Care Natural,Personal Care ,skin care,FreshFarm,₹867,624.94,kg,3590.0,4,Y
+SKU100347,TechNova Packaged Foods Classic,Grocery ,Packaged Foods,TechNova,35.79,27,g,366.0,2,Y
+SKU100348,CleanHome Packaged Foods Classic,Grocery ,packaged foods,CleanHome,190.27,171.07,kg,2401.0,6,Y
+SKU100349,TasteMax Small Appliances Natural,Electronics,Small Appliances ,TasteMax,289.85,255.11,g,1770.0,4,N
+SKU100350,FreshFarm Hair Care Classic,Personal Care ,Hair Care ,FreshFarm,891.04,611,pcs,,1,Y
+SKU100351,TasteMax Fresh Fruits Regular,fruits & veg,Fresh Fruits,TasteMax,₹309,220.43,kg,647.0,4,Y
+SKU100352,TechNova Beverages Natural,Grocery ,beverages,TechNova,554.57,₹426,g,1244.0,1,N
+SKU100353,GlowPlus Small Appliances Plus,Electronics,Small Appliances,GlowPlus,1456.8,"₹1,119",pcs,1248.0,6,Y
+SKU100354,TasteMax Staples Classic,Grocery,Staples ,TasteMax,829.41,616.78,g,1609.0,6,Y
+SKU100355,PurePlus Skin Care Plus,personal care,skin care,PurePlus,1502.88,1236.96,pcs,272.0,4,Y
+SKU100356,DmartBasic Small Appliances Plus,Electronics ,Small Appliances ,DmartBasic,523.81,386.88,l,1097.0,4,Y
+SKU100357,DailyDelight Oral Care Premium,Personal Care,Oral Care ,DailyDelight,440.93,394,pcs,1782.0,4,Y
+SKU100358,FreshFarm Fresh Vegetables Plus,Fruits & Veg ,fresh vegetables,FreshFarm,442.73,332.58,pcs,663.0,1,Y
+SKU100359,TechNova Cleaning Natural,Household ,cleaning,TechNova,927.25,652.57,kg,2330.0,1,Y
+SKU100360,PurePlus Hair Care Plus,Personal Care,Hair Care ,PurePlus,216.35,150.25,g,450.0,1,Y
+SKU100361,TechNova Fresh Fruits Regular,Fruits & Veg ,fresh fruits,TechNova,669.09,,pcs,,4,Y
+SKU100362,GlowPlus Accessories Classic,Electronics,Accessories ,GlowPlus,1568.38,1352.99,kg,4800.0,10,Y
+SKU100363,CleanHome Oral Care Classic,personal care,oral care,CleanHome,37.56,32.2,pcs,,1,Y
+SKU100364,HomeEase Home Care Classic,Household ,home care,HomeEase,395,267.75,l,659.0,2,Y
+SKU100365,GlowPlus Snacks Natural,Grocery ,snacks,GlowPlus,295.65,215.49,l,,2,Y
+SKU100366,TasteMax Skin Care Regular,Personal Care ,Skin Care,TasteMax,392.01,349.84,pcs,,2,Y
+SKU100367,PurePlus Oral Care Premium,Personal Care ,Oral Care ,PurePlus,1004.67,705.17,l,,2,N
+SKU100368,HomeEase Small Appliances Plus,Electronics,small appliances,HomeEase,269.56,189.55,g,388.0,1,N
+SKU100369,GreenFields Utensils Premium,Household,Utensils ,GreenFields,₹59,52.52,l,,1,Y
+SKU100370,DailyDelight Utensils Natural,household,Utensils,DailyDelight,₹356,₹294,l,,4,Y
+SKU100371,HomeEase Fresh Fruits Natural,fruits & veg,Fresh Fruits,HomeEase,874.6,571.46,g,1712.0,1,Y
+SKU100372,CleanHome Hair Care Premium,personal care,hair care,CleanHome,573.45,454.21,pcs,842.0,6,Y
+SKU100373,GlowPlus Accessories Plus,electronics,accessories,GlowPlus,523.39,340.54,g,73.0,1,Y
+SKU100374,HomeEase Fresh Vegetables Plus,Fruits & Veg ,fresh vegetables,HomeEase,156.1,133.47,l,,2,Y
+SKU100375,DmartBasic Small Appliances Premium,electronics,small appliances,DmartBasic,589.05,₹386,pcs,,6,Y
+SKU100376,DailyDelight Fresh Fruits Natural,Fruits & Veg,fresh fruits,DailyDelight,1634.8,1107.61,l,1344.0,1,Y
+SKU100377,HomeEase Small Appliances Regular,electronics,Small Appliances ,HomeEase,294.6,211.09,pcs,,1,N
+SKU100378,DmartBasic Home Care Natural,household,Home Care,DmartBasic,1261.24,928.17,kg,1577.0,1,Y
+SKU100379,HomeEase Packaged Foods Premium,Grocery,Packaged Foods ,HomeEase,1123.75,803.77,pcs,559.0,2,Y
+SKU100380,GreenFields Utensils Classic,household,utensils,GreenFields,147.54,104.37,l,376.0,10,Y
+SKU100381,DailyDelight Skin Care Plsu,Personal Care ,Skin Care,DailyDelight,484.44,₹407,l,,2,Y
+SKU100382,GreenFields Beverages Regular,Grocery ,Beverages ,GreenFields,1681.5,"₹1,256",pcs,,4,Y
+SKU100383,DailyDleight Fresh Fruits Classic,Fruits & Veg ,fresh fruits,DailyDelight,415.7,339.07,g,661.0,1,Y
+SKU100384,DmartBasic Hair Care Classic,Personal Care ,Hair Care,DmartBasic,421.56,₹376,g,1903.0,1,Y
+SKU100385,GlowPlus Packaged Foods Regular,grocery,packaged foods,GlowPlus,224.69,185.67,kg,3266.0,4,Y
+SKU100386,GlowPlus Beverages Classic,Grocery ,beverages,GlowPlus,330.77,₹282,g,1240.0,2,Y
+SKU100387,PurePlus Staples Classic,Grocery ,Staples,PurePlus,45.03,₹39,l,,6,Y
+SKU100388,TasteMax Fresh Vegetables Plus,fruits & veg,fresh vegetables,TasteMax,183.26,144.96,kg,2793.0,1,Y
+SKU100389,TechNova Staples Premium,grocery,Staples,TechNova,"1,275",977.71,kg,4238.0,4,Y
+SKU100390,PurePlus Skin Care Natural,personal care,Skin Care ,PurePlus,1000.08,678,g,323.0,2,Y
+SKU100391,DmartBasic Accessories Plus,Electronics,Accessories,DmartBasic,913,744.32,kg,2146.0,2,Y
+SKU100392,DmartBasic Utensils Premium,Household ,Utensils,DmartBasic,₹634,496.49,kg,1365.0,2,Y
+SKU100393,PurePlus Fresh Fruits Regular,Fruits & Veg ,Fresh Fruits ,PurePlus,196,170.87,g,173.0,2,Y
+SKU100394,TechNova Fresh Fruits Classic,Fruits & Veg,fresh fruits,TechNova,783.73,541.47,kg,3047.0,4,Y
+SKU100395,DmratBasic Home Care Classic,Household ,home care,DmartBasic,"1,041",902.67,l,80.0,6,Y
+SKU100396,FreshFarm Cleaning Classic,household,cleaning,FreshFarm,667,494.33,l,,2,N
+SKU100397,DailyDelight Accessories Premium,Electronics,Accessories,DailyDelight,366.93,308.62,kg,3171.0,10,Y
+SKU100398,FreshFarm Small Appliances Plus,Electronics,Small Appliances ,FreshFarm,₹43,37.28,kg,3295.0,4,Y
+SKU100399,FreshFarm Packaged Foods Natural,Grocery,Packaged Foods,FreshFarm,595.59,₹419,kg,540.0,2,Y
+SKU100400,PurePlus Hair Care Plus,Personal Care,Hair Care ,PurePlus,206.03,173.21,g,782.0,2,Y
+SKU100401,GreenFields Accessories Regular,electronics,accessories,GreenFields,118.52,95.6,g,1282.0,4,Y
+SKU100402,TechNova Accessories Natural,Electronics,Accessories ,TechNova,120.91,102,g,1590.0,10,Y
+SKU100403,GlowPlus Small Appliances Premium,Electronics ,Small Appliances,GlowPlus,970.52,869.95,g,533.0,6,N
+SKU100404,DmartBasic Accessories Classic,Electronics,Accessories ,DmartBasic,598.19,390.13,kg,2243.0,6,Y
+SKU100405,FreshFarm Accessories Plus,Electronics,Accessories ,FreshFarm,125.43,101.65,kg,276.0,4,Y
+SKU100406,TechNova Accessories Regular,Electronics ,Accessories ,TechNova,536.85,399,kg,4330.0,1,Y
+SKU100407,PurePlus Fresh Fruits Classic,fruits & veg,Fresh Fruits,PurePlus,574.24,427.74,kg,2671.0,4,Y
+SKU100408,DailyDelight Fresh Fruits Natural,fruits & veg,Fresh Fruits ,DailyDelight,₹36,26.44,pcs,,1,Y
+SKU100409,DmartBasic Small Appliances Natural,Electronics ,small appliances,DmartBasic,969.97,857.61,l,,1,Y
+SKU100410,TasteMax Packaged Foods Premium,Grocery ,Packaged Foods,TasteMax,729,640,g,612.0,1,Y
+SKU100411,DailyDelight Skin Care Premium,personal care,Skin Care ,DailyDelight,707.22,471,l,,1,Y
+SKU100412,TechNova Oral Care Regular,personal care,Oral Care,TechNova,958.97,746.52,l,,10,Y
+SKU100413,GlowPlus Utensils Premium,Household,Utensils,GlowPlus,"1,651",1298.04,g,1438.0,4,Y
+SKU100414,HomeEase Beverages Regular,Grocery,Beverages,HomeEase,61.18,53,g,450.0,1,Y
+SKU100415,FreshFarm Small Appliances Regular,Electronics ,Small Appliances ,FreshFarm,596.05,₹395,g,58.0,10,Y
+SKU100416,TasteMax Home Care Regular,household,Home Care,TasteMax,406.06,331.07,l,322.0,10,Y
+SKU100417,HomeEase Fresh Fruits Plus,fruits & veg,fresh fruits,HomeEase,₹365,281.15,pcs,,1,Y
+SKU100418,TechNova Fresh Fruits Regular,Fruits & Veg ,Fresh Fruits,TechNova,565.93,453.09,l,,4,Y
+SKU100419,TasteMax Home Care Premium,household,home care,TasteMax,728.87,520.86,l,,6,Y
+SKU100420,PurePlus Fresh Vegetables Plus,Fruits & Veg,Fresh Vegetables,PurePlus,530.65,353.79,l,,6,Y
+SKU100421,GlowPlus Utensils Premium,household,utensils,GlowPlus,229.02,,pcs,643.0,10,Y
+SKU100422,GlowPlus Accessories Classic,electronics,accessories,GlowPlus,42.2,33.58,g,105.0,4,Y
+SKU100423,TechNova Accessories Regular,electronics,accessories,TechNova,232.59,179.53,pcs,,1,Y
+SKU100424,GlowPlus Hair Care Natural,Personal Care ,hair care,GlowPlus,431.69,₹357,kg,2667.0,2,Y
+SKU100425,TechNova Oral Care Regular,Personal Care,Oral Care,TechNova,336.79,295.04,g,75.0,10,Y
+SKU100426,CleanHome Fresh Fruits Premium,fruits & veg,Fresh Fruits,CleanHome,896.69,628.78,kg,2203.0,1,Y
+SKU100427,FreshFarm Small Appliances Regular,Electronics,small appliances,FreshFarm,534.12,,kg,1267.0,2,Y
+SKU100428,DmartBasic Staples Natural,Grocery,staples,DmartBasic,525.47,371.15,kg,1142.0,1,Y
+SKU100429,PurePlus Staples Classic,grocery,Staples,PurePlus,1027.26,688.24,g,410.0,4,Y
+SKU100430,DailyDelight Fresh Fruits Premium,Fruits & Veg,Fresh Fruits ,DailyDelight,886.19,671.24,kg,2738.0,2,Y
+SKU100431,HomeEase Small Appliances Plus,electronics,Small Appliances,HomeEase,438.94,374.73,kg,1068.0,4,Y
+SKU100432,DailyDelight Accessories Regular,Electronics ,accessories,DailyDelight,574.98,497.95,pcs,,1,Y
+SKU100433,DailyDelight Accessories Regular,electronics,Accessories ,DailyDelight,175,140.14,l,,1,Y
+SKU100434,FreshFarm Staples Regular,grocery,Staples,FreshFarm,89.39,71.63,kg,3759.0,2,Y
+SKU100435,TasteMax Utensils Plus,Household,utensils,TasteMax,₹572,475.59,pcs,1612.0,6,Y
+SKU100436,GlowPlus Staples Plus,Grocery ,Staples ,GlowPlus,336.58,261.75,g,108.0,1,Y
+SKU100437,DailyDelight Staples Natural,Grocery,staples,DailyDelight,1007.36,713,g,622.0,6,Y
+SKU100438,TasteMax Snacks Regular,grocery,Snacks ,TasteMax,712.81,585.47,l,,2,Y
+SKU100439,PurePlus Small Appliances Classic,electronics,small appliances,PurePlus,415.6,314,l,,2,Y
+SKU100440,DmartBasic Hair Care Regular,Personal Care,Hair Care ,DmartBasic,73.63,55,pcs,,10,Y
+SKU100441,CleanHome Cleaning Premium,household,Cleaning ,CleanHome,436.45,322.09,kg,4371.0,1,Y
+SKU100442,GlowPlus Fresh Vegetables Plus,Fruits & Veg ,Fresh Vegetables ,GlowPlus,927.39,829.92,kg,4932.0,6,N
+SKU100443,TasteMax Utensils Plus,Household ,Utensils,TasteMax,₹131,102.04,pcs,,4,Y
+SKU100444,DmartBasic Skin Care Classic,Personal Care ,skin care,DmartBasic,343.36,283.5,g,1268.0,1,N
+SKU100445,TechNova Accessories Natural,Electronics ,accessories,TechNova,1439.25,1009.04,pcs,,4,Y
+SKU100446,DmartBasic Fresh Fruits Regular,fruits & veg,Fresh Fruits ,DmartBasic,879.51,₹653,g,1175.0,2,Y
+SKU100447,TechNova Packaged Foods Plus,Grocery ,Packaged Foods ,TechNova,69.81,54.76,pcs,850.0,1,Y
+SKU100448,CleanHome Utensils Plus,Household,utensils,CleanHome,704.31,613.88,g,1604.0,4,Y
+SKU100449,GlowPlus Cleaning Classic,Household,cleaning,GlowPlus,605.74,425.58,g,1306.0,1,Y
+SKU100450,PurePlus Oral Care Classic,Personal Care,Oral Care,PurePlus,₹263,211.25,g,510.0,10,Y
+SKU100451,TechNova Fresh Fruits Premium,fruits & veg,fresh fruits,TechNova,750.88,613.98,l,1501.0,6,Y
+SKU100452,TasteMax Fresh Fruits Premium,Fruits & Veg ,fresh fruits,TasteMax,₹650,498.39,kg,1719.0,6,Y
+SKU100453,HomeEase Hair Care Natural,Personal Care ,Hair Care,HomeEase,₹774,690,kg,3515.0,2,Y
+SKU100454,DmartBasic Small Appliances Premium,electronics,Small Appliances ,DmartBasic,798.49,537.03,pcs,,2,Y
+SKU100455,GlowPlus Accessories Plus,electronics,accessories,GlowPlus,₹634,433,l,,6,Y
+SKU100456,TasteMax Fresh Vegetables Plus,Fruits & Veg,Fresh Vegetables,TasteMax,548.45,398.28,g,1279.0,2,Y
+SKU100457,FreshFarm Home Care Premium,household,home care,FreshFarm,₹488,335.93,pcs,,2,Y
+SKU100458,GreenFields Utensils Natural,Household ,Utensils,GreenFields,₹455,302.19,g,90.0,1,Y
+SKU100459,HomeEase Snacks lCassic,Grocery ,snacks,HomeEase,1184.5,939,kg,4799.0,2,N
+SKU100460,CleanHome Packaged Foods Premium,grocery,Packaged Foods ,CleanHome,359.8,306.68,pcs,,6,Y
+SKU100461,FreshFarm Utensils Regular,household,Utensils ,FreshFarm,873.40,696.86,pcs,509.0,6,Y
+SKU100462,GreenFields Accessories Classic,Electronics ,Accessories ,GreenFields,788.41,₹569,pcs,,10,Y
+SKU100463,GlowPlus Staples Natural,grocery,staples,GlowPlus,36.94,28.59,l,308.0,10,Y
+SKU100464,TechNova Cleaning Plus,household,Cleaning ,TechNova,₹57,41.33,pcs,,1,Y
+SKU100465,TechNova Oral Care Premium,personal care,Oral Care,TechNova,157.34,124.46,l,345.0,6,Y
+SKU100466,PurePlus Small Appliances Plus,Electronics,Small Appliances,PurePlus,₹969,631.13,kg,2319.0,10,Y
+SKU100467,FreshFarm Hair Care Natural,Personal Care,hair care,FreshFarm,259.00,184.54,g,1188.0,1,Y
+SKU100468,PurePlus Beverages Classic,Grocery ,Beverages,PurePlus,"1,185",950.26,kg,4217.0,2,Y
+SKU100469,HomeEase Hair Care Regular,personal care,Hair Care,HomeEase,490,324.79,g,462.0,1,Y
+SKU100470,PurePlus Utensils Regular,Household ,Utensils ,PurePlus,466.01,417.02,l,606.0,2,Y
+SKU100471,PurePlus Utensils Regular,Household ,Utensils,PurePlus,758.41,₹524,l,,6,Y
+SKU100472,PurePlus Small Appliances Natural,electronics,Small Appliances,PurePlus,458.18,407.73,l,1313.0,2,Y
+SKU100473,FreshFarm Small Appliances Classic,electronics,Small Appliances,FreshFarm,"1,131",739.9,pcs,1070.0,4,N
+SKU100474,TechNova Small Appliances Premium,Electronics ,small appliances,TechNova,36.26,30.32,kg,747.0,6,Y
+SKU100475,TasteMax Oral Care Premium,Personal Care,Oral Care,TasteMax,1298.63,922,pcs,,2,Y
+SKU100476,DmartBasic Accessories Regular,electronics,accessories,DmartBasic,58.57,50,l,1933.0,10,Y
+SKU100477,FreshFarm Packaged Foods Premium,Grocery ,Packaged Foods ,FreshFarm,1377.34,1234.83,kg,3541.0,2,Y
+SKU100478,GlowPlus Cleaning Plus,Household,cleaning,GlowPlus,72.47,51,l,,2,Y
+SKU100479,DmartBasic Fresh Vegetables Natural,Fruits & Veg ,Fresh Vegetables ,DmartBasic,152.25,124.32,l,1705.0,10,N
+SKU100480,CleanHome Fresh Vegetables Regular,fruits & veg,Fresh Vegetables ,CleanHome,290.83,209.81,l,,10,Y
+SKU100481,GreenFields Skin Care Natural,Personal Care ,skin care,GreenFields,162.83,₹145,g,965.0,6,Y
+SKU100482,GreenFields Utensils Premium,Household,Utensils,GreenFields,308,203.95,pcs,1610.0,2,N
+SKU100483,PurePlus Fresh Vegetables Classic,Fruits & Veg ,Fresh Vegetables,PurePlus,524.86,368.26,l,,2,Y
+SKU100484,DmartBasic Home Care Premium,Household ,home care,DmartBasic,"₹1,124",₹785,kg,3164.0,1,Y
+SKU100485,DailyDelight Home Care Classic,Household ,Home Care,DailyDelight,205,153.87,kg,4648.0,6,Y
+SKU100486,FreshFarm Fresh Fruits Natural,Fruits & Veg,Fresh Fruits,FreshFarm,495.72,368.08,pcs,,4,Y
+SKU100487,GreenFields Utensils Classic,Household ,Utensils ,GreenFields,532,,l,,10,Y
+SKU100488,DailyDelight Cleaning Natural,Household,Cleaning,DailyDelight,467.49,371.45,l,,6,Y
+SKU100489,PurePlus Fresh Fruits Premium,Fruits & Veg ,Fresh Fruits ,PurePlus,661.14,₹539,g,896.0,6,Y
+SKU100490,GreenFields Skin Care Regular,Personal Care ,Skin Care,GreenFields,102.13,69.3,pcs,662.0,4,Y
+SKU100491,TechNova Fresh Vegetables Natural,Fruits & Veg ,fresh vegetables,TechNova,₹40,27.29,l,1768.0,1,Y
+SKU100492,DailyDelight Cleaning Regular,Household,cleaning,DailyDelight,₹95,72.72,g,96.0,10,N
+SKU100493,DailyDelight Oral Care Plus,Personal Care ,Oral Care ,DailyDelight,1284.75,,kg,2354.0,10,Y
+SKU100494,TechNova Fresh Fruits Classic,Fruits & Veg,Fresh Fruits,TechNova,1336.29,1102.71,g,1443.0,10,Y
+SKU100495,PurePlus Small Appliances Regular,electronics,small appliances,PurePlus,61.97,54.34,g,979.0,6,Y
+SKU100496,GreenFields Fresh Vegetables Natural,Fruits & Veg,Fresh Vegetables ,GreenFields,53.06,₹34,l,863.0,2,Y
+SKU100497,TasteMax Utensils Classic,Household,utensils,TasteMax,757.51,675.58,pcs,282.0,6,Y
+SKU100498,GlowPlus Skin Care Classic,personal care,Skin Care,GlowPlus,1138.91,,g,327.0,10,Y
+SKU100499,TasteMax Home Care Natural,household,home care,TasteMax,1687.51,1517.88,kg,4378.0,6,Y
+SKU100500,FreshFarm Fresh Fruits Natural,fruits & veg,fresh fruits,FreshFarm,110.76,85.71,l,341.0,4,Y
+SKU100501,TasteMax Fresh Fruits Natural,Fruits & Veg,Fresh Fruits ,TasteMax,112.71,80,g,1429.0,10,Y
+SKU100502,TasteMax Fresh Fruits Premium,Fruits & Veg,Fresh Fruits ,TasteMax,555,,g,1927.0,4,Y
+SKU100503,GreenFields Fresh Vegetables Classic,Fruits & Veg,Fresh Vegetables,GreenFields,567.47,427.18,kg,1832.0,2,Y
+SKU100504,GlowPlus Fresh Fruits Classic,Fruits & Veg,fresh fruits,GlowPlus,221.05,190.99,kg,940.0,6,Y
+SKU100505,TechNova Accessories Premium,Electronics ,Accessories ,TechNova,197.38,170.61,pcs,,1,Y
+SKU100506,GlowPlus Accessories Premium,Electronics ,Accessories ,GlowPlus,275.36,243.65,l,,1,Y
+SKU100507,DailyDelight Packaged Foods Premium,grocery,Packaged Foods ,DailyDelight,"₹1,341",988.69,l,,10,Y
+SKU100508,DmartBasic Accessories Regular,Electronics ,Accessories,DmartBasic,41.29,28.77,pcs,376.0,1,Y
+SKU100509,DmartBasic Fresh Vegetables Premium,Fruits & Veg ,fresh vegetables,DmartBasic,₹486,417.86,kg,1643.0,6,Y
+SKU100510,GlowPlus Oral Care Premium,Personal Care ,Oral Care,GlowPlus,2179.22,1427.59,pcs,,4,Y
+SKU100511,DmartBasic Snacks Natural,Grocery ,snacks,DmartBasic,42,28.84,l,,6,Y
+SKU100512,GreenFields Beverages Plus,Grocery ,Beverages,GreenFields,714.91,495.53,g,1686.0,1,Y
+SKU100513,TechNova Oral Care Classic,Personal Care,Oral Care ,TechNova,"₹1,724",1469.78,pcs,481.0,6,Y
+SKU100514,GlowPlus Accessories Natural,Electronics ,Accessories,GlowPlus,809.98,613.74,g,1337.0,10,N
+SKU100515,CleanHome Fresh Vegetables Classic,fruits & veg,fresh vegetables,CleanHome,1187.3,,pcs,1772.0,1,Y
+SKU100516,TasteMax Snacks Plus,Grocery ,Snacks,TasteMax,927.75,751.14,g,142.0,6,Y
+SKU100517,GreenFields Home Care Classic,Household ,home care,GreenFields,710.09,469.05,g,371.0,4,Y
+SKU100518,PurePlus Hair Care Classic,Personal Care,Hair Care,PurePlus,"₹1,077",842,kg,4144.0,10,Y
+SKU100519,TechNova Snacks Regular,Grocery,Snacks ,TechNova,859.66,582.4,g,171.0,6,Y
+SKU100520,GreenFields Beverages Classic,Grocery ,Beverages ,GreenFields,223.88,179.01,l,,10,N
+SKU100521,DmartBasic Beverages Classic,Grocery ,beverages,DmartBasic,₹475,373.9,g,261.0,1,N
+SKU100522,TasteMax Skin Care Premium,personal care,Skin Care ,TasteMax,647.19,₹465,g,318.0,1,Y
+SKU100523,FreshFarm Fresh Fruits Natural,Fruits & Veg ,Fresh Fruits,FreshFarm,93.74,73.36,pcs,,1,Y
+SKU100524,CleanHome Small Appliances Plus,Electronics ,Small Appliances ,CleanHome,487,319.91,g,1581.0,4,Y
+SKU100525,GlowPlus Oral Care Classic,personal care,Oral Care ,GlowPlus,342,272.13,l,1826.0,6,Y
+SKU100526,GreenFields Oral Care Classic,Personal Care ,Oral Care ,GreenFields,830.39,704.73,kg,1942.0,1,Y
+SKU100527,DmartBasic Hair Care Natural,personal care,Hair Care,DmartBasic,1484.28,1261.96,g,1776.0,2,Y
+SKU100528,GreenFields Packaged Foods Regular,Grocery ,Packaged Foods,GreenFields,₹585,₹431,pcs,645.0,2,Y
+SKU100529,FreshFarm Packaged Foods Classic,Grocery,packaged foods,FreshFarm,1274.54,893.80,l,670.0,6,Y
+SKU100530,GlowPlus Cleaning Natural,Household ,cleaning,GlowPlus,629.12,428,l,,1,Y
+SKU100531,FreshFarm Small Appliances Plus,Electronics,small appliances,FreshFarm,534,438.2,l,1015.0,4,N
+SKU100532,CleanHome Utensils Natural,Household,Utensils ,CleanHome,55.45,45.66,g,1874.0,4,Y
+SKU100533,DailyDelight Snacks Regular,grocery,Snacks ,DailyDelight,502.36,374.12,l,,4,Y
+SKU100534,PurePlus Beverages Classic,Grocery,Beverages ,PurePlus,405.68,335.24,kg,3972.0,2,Y
+SKU100535,GlowPlus Skin Care Natural,personal care,skin care,GlowPlus,159.61,113.91,pcs,,10,Y
+SKU100536,TasteMax Accessories Premium,Electronics ,accessories,TasteMax,68.81,₹50,g,1738.0,2,Y
+SKU100537,TechNova Hair Care Classic,Personal Care ,Hair Care,TechNova,486.61,335.06,l,,6,Y
+SKU100538,TechNova Small Appliances Natural,electronics,Small Appliances ,TechNova,"₹1,429",1205.63,l,1397.0,4,Y
+SKU100539,GreenFields Fresh Vegetables Natural,Fruits & Veg ,Fresh Vegetables ,GreenFields,296.56,251.76,l,,1,Y
+SKU100540,HomeEase Cleaning Premium,Household ,Cleaning,HomeEase,555.08,431.77,kg,4574.0,6,Y
+SKU100541,GreenFields Utensils Plus,household,Utensils ,GreenFields,1223.82,981.78,g,1096.0,6,Y
+SKU100542,HomeaEse Accessories Premium,Electronics,Accessories ,HomeEase,305.05,230,g,1030.0,6,Y
+SKU100543,TasteMax Oral Care Regular,Personal Care,Oral Care ,TasteMax,₹846,664.48,kg,1582.0,6,Y
+SKU100544,GreenFields Small Appliances Premium,Electronics ,Small Appliances,GreenFields,606.16,407,kg,2089.0,1,Y
+SKU100545,DailyDelight Small Appliances Plus,Electronics,Small Appliances,DailyDelight,789.55,686.67,kg,2621.0,4,Y
+SKU100546,TechNova Small Appliances Premium,Electronics ,Small Appliances ,TechNova,737,526.04,l,,4,Y
+SKU100547,TasteMax Home Care Classic,Household ,Home Care,TasteMax,294.76,254.95,g,383.0,1,N
+SKU100548,TasteMax Hair Care Plus,Personal Care,hair care,TasteMax,₹795,₹644,kg,4485.0,10,Y
+SKU100549,DmartBasic Skin Care Premium,Personal Care,skin care,DmartBasic,143.11,,l,1861.0,4,Y
+SKU100550,PurePlus Home Care Natural,Household,Home Care ,PurePlus,171.17,144.61,g,1462.0,1,Y
+SKU100551,GreenFields Home Care Classic,household,Home Care,GreenFields,474.58,315.72,g,256.0,4,Y
+SKU100552,HomeEase Beverages Classic,grocery,Beverages,HomeEase,₹569,460.02,g,852.0,10,Y
+SKU100553,GreenFields Fresh Vegetables Classic,Fruits & Veg ,Fresh Vegetables ,GreenFields,"1,252",915.12,g,697.0,4,Y
+SKU100554,HomeEase Home Care Premium,Household,Home Care,HomeEase,616,,kg,3158.0,1,Y
+SKU100555,GlowPlus Skin Care Regular,personal care,Skin Care ,GlowPlus,712.76,605.49,kg,1343.0,10,Y
+SKU100556,CleanHome Hair Care Premium,personal care,Hair Care ,CleanHome,655.85,451.4,g,451.0,1,Y
+SKU100557,TasteMax Staples Premium,Grocery,staples,TasteMax,₹994,878.08,g,1880.0,2,Y
+SKU100558,FreshFarm Small Appliances Natural,electronics,small appliances,FreshFarm,518.67,373.23,g,1231.0,4,Y
+SKU100559,TasteMax Accessories Plus,Electronics ,Accessories,TasteMax,791.04,624.65,l,1648.0,6,Y
+SKU100560,GlowPlus Fresh Fruits Classic,Fruits & Veg ,Fresh Fruits ,GlowPlus,123.37,99.30,pcs,,10,Y
+SKU100561,GreenFields Skin Care Classic,Personal Care ,Skin Care,GreenFields,1487.92,994.79,pcs,,4,N
+SKU100562,GlowPlus Utensils Classic,Household,utensils,GlowPlus,₹391,276.64,pcs,,6,Y
+SKU100563,GlowPlus Packaged Foods rPemium,Grocery ,Packaged Foods ,GlowPlus,155.73,116.59,g,546.0,10,N
+SKU100564,GreenFields Packaged Foods Natural,Grocery,Packaged Foods,GreenFields,49.5,₹42,pcs,,10,Y
+SKU100565,FreshFarm Fresh Vegetables Classic,fruits & veg,Fresh Vegetables ,FreshFarm,773,644.39,l,63.0,2,Y
+SKU100566,FreshFarm Accessories Plus,Electronics ,Accessories,FreshFarm,57.88,46.67,g,999.0,10,Y
+SKU100567,GreenFields Utensils Regular,Household,Utensils ,GreenFields,1159.91,916.12,kg,4368.0,2,Y
+SKU100568,TasteMax Utensils Classic,Household ,Utensils ,TasteMax,928.68,679.61,kg,1477.0,1,N
+SKU100569,TasteMax Skin Care Premium,personal care,skin care,TasteMax,515.47,366.38,pcs,,4,Y
+SKU100570,TasteMax Staples Regular,Grocery ,Staples ,TasteMax,293.77,200.46,g,100.0,1,Y
+SKU100571,CleanHome Small Appliances Regular,Electronics ,Small Appliances ,CleanHome,367.73,330.67,pcs,,4,Y
+SKU100572,GreenFields Beverages Regular,Grocery ,Beverages ,GreenFields,₹356,₹236,l,1721.0,1,Y
+SKU100573,TasteMax Packaged Foods Plus,Grocery ,Packaged Foods ,TasteMax,477.02,334.29,l,,6,Y
+SKU100574,GreenFields Staples Plus,Grocery ,Staples ,GreenFields,190,,pcs,1544.0,2,Y
+SKU100575,TechNova Accessories Natural,electronics,Accessories,TechNova,363.65,248.01,kg,3291.0,6,Y
+SKU100576,PurePlus Hair Care Regular,Personal Care ,Hair Care,PurePlus,155.92,136.85,g,1502.0,1,N
+SKU100577,HomeEase Hair Care Natural,Personal Care,Hair Care ,HomeEase,120.46,92.28,l,,4,Y
+SKU100578,FreshFarm Small Appliances Natural,electronics,small appliances,FreshFarm,₹353,246.03,g,1025.0,6,Y
+SKU100579,GlowPlus Fresh Fruits Classic,Fruits & Veg ,Fresh Fruits,GlowPlus,176.09,114.60,l,471.0,4,Y
+SKU100580,TasteMax Packaged Foods Regular,grocery,packaged foods,TasteMax,62.56,44.93,g,1983.0,10,Y
+SKU100581,GlowPlus Beverages Classic,Grocery,beverages,GlowPlus,610,443.01,l,,4,N
+SKU100582,FreshFarm Small Appliances Natural,electronics,Small Appliances ,FreshFarm,"₹1,031",874.64,g,1484.0,1,Y
+SKU100583,PurePlus Cleaning Natural,Household,Cleaning,PurePlus,1077.46,873.93,kg,763.0,10,Y
+SKU100584,GlowPlus Small Appliances Plus,Electronics,Small Appliances,GlowPlus,410.48,298.83,l,1983.0,1,Y
+SKU100585,DmartBasic Accessories Premium,Electronics,Accessories,DmartBasic,₹134,101.53,l,,1,N
+SKU100586,DailyDelight Hair Care Plus,Personal Care,Hair Care ,DailyDelight,863,736,kg,2090.0,10,Y
+SKU100587,HomeEase Packaged Foods Premium,grocery,Packaged Foods,HomeEase,832.42,,l,290.0,2,N
+SKU100588,DailyDelight Staples Regular,Grocery ,staples,DailyDelight,"₹1,164",960.85,g,875.0,1,Y
+SKU100589,TasteMax Home Care Premium,Household,Home Care ,TasteMax,494.05,358.79,pcs,1046.0,1,Y
+SKU100590,HomeEase Fresh Fruits Plus,fruits & veg,Fresh Fruits ,HomeEase,1236.68,1002.0,l,,4,Y
+SKU100591,DailyDelight Accessories Natural,Electronics,accessories,DailyDelight,397,337.44,pcs,1409.0,2,Y
+SKU100592,DmartBasic Small Appliances Plus,electronics,Small Appliances,DmartBasic,138.04,90.97,pcs,,1,Y
+SKU100593,DmartBasic Utensils Premium,household,Utensils ,DmartBasic,32,28.22,g,788.0,1,Y
+SKU100594,DailyDelight Fresh Vegetables Regular,fruits & veg,fresh vegetables,DailyDelight,₹715,595.47,kg,1020.0,6,Y
+SKU100595,GlowPlus Fresh Fruits Natural,Fruits & Veg ,Fresh Fruits,GlowPlus,72.44,₹65,g,1332.0,2,Y
+SKU100596,TasteMax Fresh Vegetables Natural,Fruits & Veg,fresh vegetables,TasteMax,"₹1,307",1116.49,l,,4,Y
+SKU100597,PurePlus Small Appliances Classic,Electronics,small appliances,PurePlus,731.43,₹542,g,1892.0,2,N
+SKU100598,TasteMax Fresh Fruits Classic,Fruits & Veg ,Fresh Fruits ,TasteMax,₹329,255.47,kg,2146.0,10,Y
+SKU100599,HomeEase Fresh Fruits Natural,Fruits & Veg,fresh fruits,HomeEase,447.54,352.59,g,391.0,4,Y

@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state,storage_type,capacity_units,current_utilization_units,manager,last_audit_date,last_audit_date_raw
+WH100,Mumbai Central Warehouse,Mumbai,Maharashtra,rack,138593,137779,Sonia Patel,2023-08-30,30 Aug 2023
+WH101,Delhi Central Warehouse,Delhi,Delhi,pallet,119402,64297,Kiran Joshi,,03/17/2025
+WH102,Bengaluru Central Warehouse,Bengaluru,Karnataka,bulk,185142,173426,Ravi Sharma,,09/26/2025
+WH103,Hyderabad Central Warehouse,Hyderabad,Telangana,pallet,142770,67052,Ajay Kumar,,2024-01-17
+WH104,Kolkata Central Warehouse,Kolkata,West Bengal,rack,162932,117283,Ravi Sharma,2023-11-11,11 Nov 2023
+WH105,Chennai Central Warehouse,Chennai,Tamil Nadu,rack,90797,81730,Ajay Kumar,,03/20/2025
+WH106,Pune Central Warehouse,Pune,Maharashtra,pallet,97757,73188,Ajay Kumar,2025-06-17,17 Jun 2025
+WH107,Ahmedabad Central Warehouse,Ahmedabad,Gujarat,rack,86667,54594,Maya Rao,,
+WH108,Lucknow Central Warehouse,Lucknow,Uttar Pradesh,bulk,102026,48149,Ajay Kumar,,
+WH109,Bhopal Central Warehouse,Bhopal,Madhya Pradesh,pallet,160377,141701,Ravi Sharma,,2024/02/12
